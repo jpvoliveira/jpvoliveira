@@ -1,5 +1,11 @@
-### Hi there 👋
+### Ola mundo, sou o João 👋
 
+- 🔭 Estou na jornada em busca de me tornar um Desenvolvedor Web
+- 🌱 No momento estou aprendendo React
+- 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
+- 👾 Linguagens: HTML, CSS, JavaScript
+- 📫 Entre em contato: joao.pvo@aluno.ufop.edu.br
+- ⚡ Adoro viajar e fazer novas amizades
 <!--
 **jpvoliveira/jpvoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
