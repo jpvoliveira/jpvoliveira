@@ -1,7 +1,7 @@
 ### Ola mundo, sou o João 👋
 
 - 🔭 Estou na jornada em busca de me tornar um Desenvolvedor Web
-- 🌱 No momento estou aprendendo React
+- 🌱 No momento estou iniciando meu aprendizado no Back-End
 - 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
 - 👾 Linguagens: HTML, CSS, JavaScript
 - 📫 Entre em contato: joao.pvo@aluno.ufop.edu.br
