@@ -1,7 +1,7 @@
 ## Ola mundo, sou o João 👋
 
 - 🔭 Estou na jornada em busca de me tornar um Desenvolvedor Web
-- 🌱 No momento estou iniciando meu aprendizado em bancos de dados relacionais.
+- 🌱 No momento estou iniciando meu aprendizado em SQL.
 - 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
 - 👾 Tecnologias: Git, HTML, CSS, JavaScript, React, Node.js, MongoDB
 - 📫 Entre em contato: joao.pvo@aluno.ufop.edu.br
