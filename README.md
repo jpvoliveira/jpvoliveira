@@ -1,6 +1,6 @@
 ## Ola mundo, sou o João 👋
 
-- 🔭 Estou na jornada em busca de me tornar um Desenvolvedor Web
+- 🔭 Estou na jornada em busca de me tornar um Desenvolvedor Web Full Stack
 - 🌱 No momento estou iniciando meu aprendizado em SQL.
 - 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
 - 👾 Tecnologias: Git, HTML, CSS, JavaScript, React, Node.js, MongoDB
