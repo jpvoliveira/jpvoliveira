@@ -3,7 +3,7 @@
 - 🔭 Estou na jornada em busca de me tornar um Desenvolvedor Web Full Stack
 - 🌱 No momento estou iniciando meu aprendizado em Typescript.
 - 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
-- 👾 Tecnologias: Git, HTML, CSS, JavaScript, React, Node.js, MongoDB
+- 👾 Tecnologias: Git, HTML, CSS, JavaScript, React, Node.js, MongoDB, PostgreSQL
 - 📫 Entre em contato: joao.pvo@aluno.ufop.edu.br
 - ⚡ Adoro viajar e fazer novas amizades
 
