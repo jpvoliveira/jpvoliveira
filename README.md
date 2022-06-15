@@ -5,6 +5,7 @@
 - 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
 - 👾 Tecnologias: Git, HTML, CSS, JavaScript, React, Node.js, MongoDB, PostgreSQL, Typescript
 - 📫 Entre em contato: joao.pvo@aluno.ufop.edu.br
+- 👥 Linkedin: https://www.linkedin.com/in/joãopedrovitordeoliveira/
 - ⚡ Adoro viajar e fazer novas amizades
 
 ### Tecnologias:
