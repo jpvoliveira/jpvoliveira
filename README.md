@@ -1,7 +1,6 @@
 ## Ola mundo, sou o João 👋
 
-- 🔭 Estou a procura de me aperfeiçoar como Desenvolvedor Web Full Stack
-- 🌱 No momento estou iniciando meu aprendizado em Aws.
+- 🌱 No momento estou iniciando meu aprendizado em Angular.
 - 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
 - 👾 Tecnologias: Git, HTML, CSS, JavaScript, React, Node.js, MongoDB, PostgreSQL, Typescript
 - 📫 Entre em contato: joao.pvo@aluno.ufop.edu.br
