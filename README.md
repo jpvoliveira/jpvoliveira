@@ -1,6 +1,6 @@
 ## Ola mundo, sou o João 👋
 
-- 🌱 No momento estou iniciando meu aprendizado em Angular.
+- 🌱 No momento estou iniciando meu aprendizado em Java.
 - 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
 - 👾 Tecnologias: Git, HTML, CSS, JavaScript, React, Node.js, MongoDB, PostgreSQL, Typescript
 - 📫 Entre em contato: joao.pvo@aluno.ufop.edu.br
