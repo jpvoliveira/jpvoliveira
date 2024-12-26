@@ -1,8 +1,8 @@
 ## Ola mundo, sou o João 👋
 
-- 🌱 No momento estou iniciando meu aprendizado em Flutter.
-- 👯 Curso Engenharia de Controle e Automação na Universidade Federal de Ouro Preto
-- 👾 Tecnologias: Git, HTML, CSS, JavaScript, React, Angular, Node.js, MongoDB, PostgreSQL, Typescript
+- 🌱 No momento estou iniciando meu aprendizado em Swift.
+- 👯 Curso Engenharia de Software na PUC-MG
+- 👾 Tecnologias: Java, Springboot, Angular, React, Node, Express, PostgreSQL
 - 📫 Entre em contato: joao.pvo44@gmail.com
 - 👥 Linkedin: https://www.linkedin.com/in/joãopedrovitordeoliveira/
 - ⚡ Adoro viajar e fazer novas amizades
